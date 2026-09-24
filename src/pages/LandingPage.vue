@@ -1,7 +1,7 @@
 <template>
   <div class="landing-page">
 
-    <!-- Hero Section -->
+    
     <section class="bg-cyan-500">
       <div class="hero-content inline-flex">
         <h1>Selamat Datang di Onlineshop SMK Yadika Soreang</h1>
@@ -16,7 +16,7 @@
       </div>
     </section>
 
-    <!-- Video Promosi -->
+    
 <section class="promo-video">
   <h2>Video Promosi</h2>
   <p>Lihat berbagai produk unggulan kami.</p>
@@ -27,7 +27,7 @@
 </section>
 
 
-    <!-- Fitur -->
+    
     <section class="features">
       <h2>Kenapa Memilih Kami?</h2>
 
@@ -64,7 +64,7 @@
 </template>
 
 <script setup>
-// Tidak perlu script jika hanya tampilan
+
 </script>
 
 <style scoped>

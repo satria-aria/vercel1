@@ -1,9 +1,10 @@
 <script setup>
 import ProductCard from "../components/ProductCard.vue";
 const daftarProduk = [
-  { id: 1, nama: "Kaos Sekolah", harga: 75000, gambar: "jacket.jpg" },
-  { id: 2, nama: "Topi Sekolah", harga: 35000, gambar: "sepatukuning.jpg" },
-  { id: 3, nama: "Tas Sekolah", harga: 120000, gambar: "celana.jpg" },
+  { id: 1, nama: "Newjeans 1st EP", harga: 75000, gambar: "cover album biru.jpg" },
+  { id: 2, nama: "Newjeans Ditto", harga: 35000, gambar: "Ditto.jpg" },
+  { id: 3, nama: "Newjeans NJWMX", harga: 120000, gambar: "newjeans green.jpg" },
+  
 ];
 
 
