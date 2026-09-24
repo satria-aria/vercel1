@@ -12,19 +12,25 @@
 
         <div class="info-item">
           <h3>📍 Alamat</h3>
-          <p>Jl. Pendidikan No. 10, Bogor</p>
+          <p>Jl. Braga No. 12</p>
         </div>
 
         <div class="info-item">
-          <h3>📞 Telepon</h3>
-          <p>0812-3456-7890</p>
+          <h3>📞 08? berapa</h3>
+          <p>0813-9549-8929</p>
         </div>
 
         <div class="info-item">
-          <h3>✉️ Email</h3>
-          <p>wonderwall@gmail.com</p>
+          <h3>🌐 Instagram</h3>
+          <p>@bn_98162</p>
         </div>
-      </div>
+      
+
+      <div class="info-item">
+          <h3>Ⓜ Email</h3>
+          <p>satriaaaw24@gmail.com</p>
+        </div>
+        </div>
 
       <!-- Formulir -->
       <div class="contact-form">

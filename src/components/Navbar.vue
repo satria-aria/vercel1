@@ -1,6 +1,6 @@
 <template>
       <nav>
-        <h2>NewJeans Official</h2>
+        <h1></h1>
         <div class="menu">
        | <RouterLink to="/">Landing</RouterLink> |
         
@@ -8,7 +8,7 @@
          <RouterLink to="/about">About</RouterLink> |
            <RouterLink to="/contact">Contact</RouterLink> |
            <RouterLink to="/testimoni">Testimoni</RouterLink> |
-           <RouterLink to="/NewJeans">NewJeans</RouterLink> |
+           <RouterLink to="/NewJeans">Profile</RouterLink> |
            </div>
       </nav>
   <hr />
