@@ -1,6 +1,7 @@
 <template>
+  
+
       <nav>
-        <h1></h1>
         <div class="menu">
        | <RouterLink to="/">Landing</RouterLink> |
         

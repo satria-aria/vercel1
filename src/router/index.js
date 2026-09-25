@@ -4,6 +4,7 @@ import ProductPage from '../pages/ProductPage.vue'
 import AboutPage from '../pages/AboutPage.vue'
 import ContactPage from '../pages/ContactPage.vue'
 import TestimoniPage from '../pages/TestimoniPage.vue'
+import ProfilePage from '../pages/ProfilePage.vue'
 
  
 const router = createRouter({
@@ -13,7 +14,8 @@ const router = createRouter({
     { path: '/product', component: ProductPage },
     { path: '/about', component: AboutPage },
     { path: '/contact', component:ContactPage},
-    { path: '/testimoni', component: TestimoniPage  }
+    { path: '/testimoni', component: TestimoniPage },
+    { path: '/profile', component: ProfilePage }
   ],
 })
  
