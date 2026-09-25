@@ -11,7 +11,7 @@ const daftarProduk = [
 </script>
 <template>
   <main class="product-page">
-    <h1>Produk Kami</h1>
+    <h1>Produk Kami </h1>
     <div class="grid">
       <ProductCard
         v-for="produk in daftarProduk"
@@ -98,7 +98,7 @@ const daftarProduk = [
   font-size: 18px;
 }
 
-/* Tombol produk */
+
 .product-card button {
   width: 100%;
   padding: 10px;
